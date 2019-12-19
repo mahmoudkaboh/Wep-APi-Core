@@ -1,0 +1,14 @@
+F:\WepApiCore & Angular\WepApiCore\WepApiCore\bin\Debug\netcoreapp2.1\WepApiCore.deps.json
+F:\WepApiCore & Angular\WepApiCore\WepApiCore\bin\Debug\netcoreapp2.1\WepApiCore.runtimeconfig.json
+F:\WepApiCore & Angular\WepApiCore\WepApiCore\bin\Debug\netcoreapp2.1\WepApiCore.runtimeconfig.dev.json
+F:\WepApiCore & Angular\WepApiCore\WepApiCore\bin\Debug\netcoreapp2.1\WepApiCore.dll
+F:\WepApiCore & Angular\WepApiCore\WepApiCore\obj\Debug\netcoreapp2.1\WepApiCore.csprojAssemblyReference.cache
+F:\WepApiCore & Angular\WepApiCore\WepApiCore\obj\Debug\netcoreapp2.1\WepApiCore.csproj.CoreCompileInputs.cache
+F:\WepApiCore & Angular\WepApiCore\WepApiCore\obj\Debug\netcoreapp2.1\WepApiCore.RazorAssemblyInfo.cache
+F:\WepApiCore & Angular\WepApiCore\WepApiCore\obj\Debug\netcoreapp2.1\WepApiCore.RazorAssemblyInfo.cs
+F:\WepApiCore & Angular\WepApiCore\WepApiCore\obj\Debug\netcoreapp2.1\WepApiCore.AssemblyInfoInputs.cache
+F:\WepApiCore & Angular\WepApiCore\WepApiCore\obj\Debug\netcoreapp2.1\WepApiCore.AssemblyInfo.cs
+F:\WepApiCore & Angular\WepApiCore\WepApiCore\obj\Debug\netcoreapp2.1\WepApiCore.RazorTargetAssemblyInfo.cache
+F:\WepApiCore & Angular\WepApiCore\WepApiCore\bin\Debug\netcoreapp2.1\WepApiCore.pdb
+F:\WepApiCore & Angular\WepApiCore\WepApiCore\obj\Debug\netcoreapp2.1\WepApiCore.dll
+F:\WepApiCore & Angular\WepApiCore\WepApiCore\obj\Debug\netcoreapp2.1\WepApiCore.pdb
